@@ -25,10 +25,8 @@ Client-server chat applications are software systems that enable real-time commu
 •	Faster but may result in message loss or disorder.
 ## 3. Socket Programming:
 •	Sockets:
-
 •	Sockets serve as communication endpoints.
 •	Each client and the server has a socket for sending and receiving data.
-
 •	Functions:
 •	Socket programming involves functions for creating, binding, listening, accepting connections, and sending/receiving data through sockets.
 ## 4. User Authentication:
